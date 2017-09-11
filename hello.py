@@ -2,4 +2,9 @@
 
 from helper import greetings
 
+
 greetings("hello there")
+
+greetings("hello")
+greetings("welcome")
+
