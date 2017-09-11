@@ -1,7 +1,5 @@
 #Nicholas Georgiou (ncg2fh), CS3240
 
-def greetings(msg):
-    print(msg)
-
+from helper import greetings
 
 greetings("hello")
